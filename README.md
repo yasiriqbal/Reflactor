@@ -1,2 +1,2 @@
 # Reflactor
-A project that reflects!
+A project that reflects the creativity!
